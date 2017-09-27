@@ -8,4 +8,5 @@ function logShout(string){
 
 function logWhisper(string){console.log('hello')}
 
-function sayHiToGrandma(string){return STRING="I can\'t hear you!"()}
+function sayHiToGrandma(string){if (string.toUpperCase() === string)
+  {return "YES INDEED!"}
