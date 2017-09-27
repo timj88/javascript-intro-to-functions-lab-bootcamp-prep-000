@@ -8,4 +8,4 @@ function logShout(string){
 
 function logWhisper(string){console.log('hello')}
 
-function sayHiToGrandma(string){return string.("I can\'t hear you!")}
+function sayHiToGrandma(string){if string.toLowerCase()}
